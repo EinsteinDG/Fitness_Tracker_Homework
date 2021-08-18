@@ -18,7 +18,7 @@ This app is used to track fitness activity of the user and display recent result
 
 - [Screenshot(s)](#screenshots)
 
-- [Questions](#questions)
+- [Info](#info)
 
 - [License](#license)
 
@@ -51,9 +51,7 @@ This app is used to track fitness activity of the user and display recent result
 
 ---
 
-## Questions
-
-If you have any questions about the repo you can open an issue.
+## Info
 
 You can find more of my work at [Github](https://github.com/EinsteinDG)
 
