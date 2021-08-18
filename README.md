@@ -40,7 +40,7 @@ This app is used to track fitness activity of the user and display recent result
 ## Links
 
 - [GitHub Repository](https://github.com/EinsteinDG/Fitness_Tracker_Homework)
-- [Deployed Application](App)
+- [Deployed Application](https://the-fitapp-tracker.herokuapp.com/)
 
 ---
 
