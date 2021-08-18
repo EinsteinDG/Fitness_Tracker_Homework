@@ -1,6 +1,6 @@
 {
     "name": "Fitness Tracker",
-    "description": "Fitness Tracker App, Homework",
-    "repository": "https://github.com/EinsteinDG/Fitness_Tracker_Homework",
+    "description": "Fitness Tracker App, Week 18 Homework",
+    "repository": "https://github.com/tracye1083/Fitness-Tracker",
     "keywords": ["node", "express", "mongoDB", "Mongoose"]
-}
+  }
